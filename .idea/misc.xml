@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/fragment_googlemap.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProjects/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/fragment_googlemap2.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidProjects/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/fragment_slideshow.xml" value="0.11302083333333333" />
+        <entry key="..\:/AndroidProjects/FoodMania11/FoodMania11/FoodMania/app/src/main/res/menu/activity_main_drawer.xml" value="0.16145833333333334" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/a_back1.xml" value="0.1185" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/edit_black3.xml" value="0.1185" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/edit_button.xml" value="0.141" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/edit_button3.xml" value="0.141" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.129" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.129" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/line_bottom.xml" value="0.141" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/drawable/side_nav_bar.xml" value="0.129" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/activity_food_enter.xml" value="0.215625" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/activity_food_enter2.xml" value="0.215625" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/activity_food_enter3.xml" value="0.215625" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/activity_food_enter4.xml" value="0.215625" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/activity_main.xml" value="0.11727456940222898" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/activity_soucial1.xml" value="0.24114583333333334" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/app_bar_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/content_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/food_item.xml" value="0.22146739130434784" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/fragment_gallery.xml" value="0.22146739130434784" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/fragment_home.xml" value="0.22146739130434784" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/fragment_slideshow.xml" value="0.22146739130434784" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/fragment_so1.xml" value="0.12291666666666666" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/layout/nav_header_main.xml" value="0.24114583333333334" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/menu/activity_main_drawer.xml" value="0.24114583333333334" />
+        <entry key="..\:/As2021pro/FoodMania/app/src/main/res/menu/main.xml" value="0.21851851851851853" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/activity_food_enter.xml" value="0.2" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/activity_food_enter2.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/activity_food_enter3.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/activity_food_enter4.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/food_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/fragment_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/fragment_slideshow.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/FoodMania/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/FoodMania/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/activity_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/content_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/food_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/fragment_gallery.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/fragment_google_map.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/fragment_google_map2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/fragment_googlemap.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/fragment_home.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/fragment_slideshow.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/FoodMania11/FoodMania/app/src/main/res/layout/nav_header_main.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/drawable/search.xml" value="0.1415" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_add.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_admin.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_delete.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_food_enter2.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_list.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_search.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_sign_in.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/activity_update.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/app_bar_main.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/fragment_gallery.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/fragment_googlemap2.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/fragment_slideshow.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/layout/nav_header_main.xml" value="0.1078125" />
+        <entry key="..\:/Users/AIS/OneDrive - Auckland Institute of Studies/Desktop/newFoodManiaFinal/FoodMania11/FoodMania11/FoodMania/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

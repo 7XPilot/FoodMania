@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminActivity">
+
+
+    <ImageButton
+        android:id="@+id/insert"
+        android:layout_width="417dp"
+        android:layout_height="116dp"
+        android:layout_above="@+id/update"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="88dp"
+
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/insert"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/update"
+        android:layout_width="403dp"
+        android:layout_height="199dp"
+        android:layout_above="@+id/search"
+        android:layout_marginBottom="8dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/update"
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/delete"
+        android:layout_width="386dp"
+        android:layout_height="192dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="-2dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/delete"
+        app:layout_constraintEnd_toEndOf="@id/search"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="388dp" />
+
+    <ImageButton
+        android:id="@+id/search"
+        android:layout_width="394dp"
+        android:layout_height="125dp"
+        android:layout_above="@+id/delete"
+        android:layout_marginBottom="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/saaarch"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/delete"
+        app:layout_constraintVertical_bias="0.884" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/insert"
+        android:layout_marginBottom="150dp"
+        android:textSize="40dp"
+
+        android:textStyle="bold"
+        android:text="Admin Panel" />
+
+
+</RelativeLayout>
